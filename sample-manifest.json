@@ -1,12 +1,12 @@
 {
-  "export_job_id": "36215634-15cb-445e-8590-26976a7db1d1",
+  "export_job_id": "4a6ac0a0-eb84-452b-b6ae-d7b91fa8ef0d",
   "id_short": 965822,
-  "published_at": "2026-04-15T19:59:47Z",
+  "published_at": "2026-04-19T07:07:20Z",
   "repo_name": "all-restaurants-in-kentucky-us-sample-965822",
   "sample_asset_name": "beamstation_965822_restaurants-us-ky_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/965822/beamstation_965822_restaurants-us-ky_SAMPLE_DIST.csv",
   "sample_records": 818,
   "sample_sha256": "3aa26962e02019be041991a9a4b271ec4005400223e4e8fa49ec925af1c9b5d6",
   "sample_size_bytes": 1882446,
-  "total_records": 8244
+  "total_records": 8188
 }

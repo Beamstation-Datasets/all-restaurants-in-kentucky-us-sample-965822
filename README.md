@@ -1,6 +1,6 @@
 # All Restaurants in Kentucky, US
 
-> Free BeamStation sample export with 892 rows and masked direct-contact fields.
+> Free BeamStation sample export with 879 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `965822` |
 | Location | Kentucky |
 | Category | Restaurants |
-| Full dataset size | 8,924 records |
-| Free sample size | 892 records (10.0%) |
-| Last export | 2026-04-22T01:45:36.597555+00:00 |
+| Full dataset size | 8,795 records |
+| Free sample size | 879 records (9.99%) |
+| Last export | 2026-04-29T04:58:31.653166+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kentucky-us-sample-965822/releases/download/sample-latest/beamstation_965822_restaurants-us-ky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
